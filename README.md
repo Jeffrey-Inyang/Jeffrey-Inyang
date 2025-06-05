@@ -67,7 +67,8 @@ Currently building intelligent systems, custom LLM pipelines, and laying the fou
 
 ### 🌍 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://jeffrey-inyang.vercel.app)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrey.inyang@yahoo.com)
+
 
 ---
 
