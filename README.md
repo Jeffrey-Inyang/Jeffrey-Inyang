@@ -41,11 +41,15 @@ Currently building intelligent systems, custom LLM pipelines, and laying the fou
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffrey-Inyang&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyai&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeffrey-Inyang&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrey-Inyang&layout=compact&theme=radical&langs_count=6&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
