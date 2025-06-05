@@ -72,4 +72,4 @@ Currently building intelligent systems, custom LLM pipelines, and laying the fou
 
 ---
 
-> “It always seems impossible until it’s done.” – Nelson Mandela
+> “I am burdened with glorious purpose.”
