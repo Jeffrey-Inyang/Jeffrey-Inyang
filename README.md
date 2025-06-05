@@ -41,11 +41,11 @@ Currently building intelligent systems, custom LLM pipelines, and laying the fou
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiz2411&show_icons=true&theme=tokyonight" alt="Jeffrey's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyai&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiz2411&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyai&theme=tokyonight" />
 </p>
 
 ---
