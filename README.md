@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a self-taught developer and university student who started higher education at **14**. Passionate about AI, systems programming, and turning bold ideas into real-world products.
+I'm a self-taught developer and university student who is passionate about AI, systems programming, and turning bold ideas into real-world products.
 
 Currently building intelligent systems, custom LLM pipelines, and laying the foundation for my future company, **Søren** — a tech startup aiming to redefine the future of automation, robotics, and AI in the Middle East.
 
