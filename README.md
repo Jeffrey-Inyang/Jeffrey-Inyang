@@ -1,7 +1,7 @@
 <h1 align="center">Heyy👋, I'm Jeffrey Inyang 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Systems+Dev;Huge+tech+ nerd!+%7C+Tech+Visionary;Studying+AI/ML+&+Building+the+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Systems+Dev;Huge+tech+nerd+%7C+Tech+Visionary;Studying+AI/ML+&+Building+the+future" alt="Typing SVG" />
 </p>
 
 <p align="center">
