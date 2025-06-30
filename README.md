@@ -72,4 +72,4 @@ Currently building intelligent systems, custom LLM pipelines, and laying the fou
 
 ---
 
-> “I am burdened with glorious purpose.”
+> “Phillipians 4:19.”
