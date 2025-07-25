@@ -34,7 +34,6 @@ Currently building intelligent systems, custom LLM pipelines.
 
 - 🧠 Running local LLMs (like CapybaraHermes-2.5) with execution wrappers
 - 🔍 Custom RAG pipelines with arXiv + GROBID ingestion
-- 🌍 Planning Søren: robotics, AGI, Mars tech, space shipment, biometric banking, and more
 
 ---
 
