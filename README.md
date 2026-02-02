@@ -1,14 +1,22 @@
 <h1 align="center">
-  I'm Jeffrey Inyang
+  Jeffrey Inyang
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=560&lines=Founder+%26+CEO+of+Bytte+AI;Inventor+%7C+Visionary;Building+Category-Defining+Technology;Shaping+the+future" alt="Typing SVG" />
+  Founder &amp; CEO, <a href="https://github.com/Bytte-AI" target="_blank"><strong>Bytte AI</strong></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhiz2411&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1600&center=true&vCenter=true&width=520&lines=Inventor+%7C+Visionary;Building+Category-Defining+Technology;Shaping+the+future" alt="Typing SVG" />
 </p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhiz2411&style=flat&color=8a8a8a" alt="Profile views" />
+</p>
+
+<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake" />
@@ -16,10 +24,16 @@
 
 ---
 
-### Contact me
+<p align="center">
+  <strong>Contact</strong>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrey.inyang@bytte.xyz)
+<p align="center">
+  <a href="mailto:jeffrey.inyang@bytte.xyz">jeffrey.inyang@bytte.xyz</a>
+</p>
 
 ---
 
-> “Philippians 4:19.”
+<p align="center">
+  <em>“Philippians 4:19.”</em>
+</p>
