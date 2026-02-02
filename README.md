@@ -1,10 +1,9 @@
 <h1 align="center">
-  I'm Jeffrey Inyang, Co-founder & CEO @ 
-  <a href="https://github.com/Bytte-AI" target="_blank">Bytte AI</a>
+  I'm Jeffrey Inyang
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=520&lines=Founder+%7C+Visionary+CEO;Building+Category-Defining+Technology;Leading+Bytte+AI+into+the+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=560&lines=Founder+%26+CEO+of+Bytte+AI;Inventor+%7C+Visionary;Building+Category-Defining+Technology;Shaping+the+future" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 
 ---
 
-### Get in touch
+### Contact me
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffrey.inyang@bytte.xyz)
 
